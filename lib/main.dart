@@ -124,7 +124,7 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Container(
           height: 300,
-          width: 300,
+          width: 400,
           alignment: Alignment(0.9, -0.98),
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(20),
