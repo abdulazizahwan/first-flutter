@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
           appBar: AppBar(
             backgroundColor: Colors.pink,
-            title: Text('Specimen'),
+            title: Text('Testing'),
           ),
           body: Center(
             child: Container(
