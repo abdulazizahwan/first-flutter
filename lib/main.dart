@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
             backgroundColor: Colors.pink,
             title: Text('Testing'),
           ),
-          body: 
+          body:
           ),
     );
   }
