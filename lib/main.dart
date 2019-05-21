@@ -12,8 +12,11 @@ class MyApp extends StatelessWidget {
             backgroundColor: Colors.pink,
             title: Text('Testing'),
           ),
-          body:
-          ),
+      body: Row(children: <Widget>[
+        Icon(Icons.mail_outline),
+        Text("Mail")
+      ],
+      ),
     );
   }
 }
